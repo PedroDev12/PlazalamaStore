@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
       {
         protocol: 'http', // Local usa HTTP, no HTTPS
         hostname: 'electrolamastore.onrender.com',
-      
+        pathname: '/**', // permite cualquier ruta
 
       },
       {
