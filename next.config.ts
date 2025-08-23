@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'http', // Local usa HTTP, no HTTPS
+        protocol: 'https', // Local usa HTTP, no HTTPS
         hostname: 'electrolamastore.onrender.com',
         pathname: '/**', // permite cualquier ruta
 
