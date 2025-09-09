@@ -5,7 +5,6 @@ import ShoppingCartItem from "./ShoppingCartItem"
 import Amount from "./Amount"
 import CouponForm from "./CouponForm"
 import SubmitOrderForm from "./SubmitOrderForm"
-import CreditCardPaymentModal from "./CreditCardPaymentModal"
 
 export default function ShoppingCart() {
 
